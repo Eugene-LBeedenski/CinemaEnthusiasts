@@ -1,0 +1,102 @@
+
+
+.zag {
+    margin: 0px 10px;
+    font-size: 60px;
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(136, 139, 140);
+    width: 100%;
+    height: 120px;
+}
+
+.avtor {
+    margin: 5px;
+    font-size: 17px;
+    font-family: "Oswald", sans-serif;
+    text-align: right;
+    color: rgb(115, 128, 125);
+}
+
+body {
+    background-color: rgb(140, 164, 161);
+}
+
+.opis {
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+    margin: 4px;
+    margin-bottom: 14px;
+
+}
+
+.nach {
+    width: 40%;
+    background-color: rgb(94, 108, 103);
+    border-radius: 7px;
+    padding: 3px;
+    margin: 30px 0px;
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    
+}
+
+.jack {
+    border-radius: 8px;
+    width: 40%;
+}
+
+.vstup {
+    display: flex;
+    justify-content: space-between;
+}
+
+.martin {
+    border-radius: 4px;
+    width: 30%;
+    height: 200px;
+    margin: 10px;
+}
+
+.center {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+
+.david {
+    border-radius: 4px;
+    width: 17%;
+    margin: 3px;
+    height: 144px;
+}
+
+.niz {
+    display: flex;
+    gap: 10px;
+}
+
+.tarantino {
+    border-radius: 4px;
+    width: 28%;
+    height: 200px;
+    margin-top: 15px;
+}
+
+.coppola {
+    width: 40%;
+    height: 130px;
+    border-radius: 6px;
+    margin-top: 26px;
+    margin-left: 12px;
+}
+
+.nolan {
+    width: 26%;
+    height: 230px;
+    border-radius: 6px;
+}
