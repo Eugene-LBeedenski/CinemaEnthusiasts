@@ -1,0 +1,38 @@
+.opis {
+    margin: 6px;
+}
+
+.opis2 {
+    font-size: 20px;
+    background-color: rgb(106, 149, 115);
+    text-align: center;
+    width: 40%;
+    height: 270px;
+    margin: 40px;
+    border-radius: 7px;
+    border: 2px solid black;
+    font-family: "Oswald", sans-serif;
+    margin-left: 400px;
+    
+}
+
+body {
+    background-color: rgb(101, 143, 98);
+    font-family: "Oswald", sans-serif
+}
+
+header {
+    text-align: center;
+    background-color: rgb(66, 98, 66);
+    color: rgb(196, 225, 192);
+    width: 100%;
+    height: 100px;
+    margin-top: -20px;
+    border-radius: 5px;
+}
+
+h1 {
+    display: block;
+    margin-top: 20px;
+    font-size: 40px;
+}
