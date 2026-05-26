@@ -1,0 +1,152 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    background: linear-gradient(
+  to right,
+  #545855,
+  #594a4a,
+  #5d6162,
+  #59575d
+);
+}
+
+.PulpFiction {
+    width: 95%;
+    border-radius: 6px;
+    background-color: rgb(118, 114, 148);
+    height: 175px;
+}
+
+article {
+    margin: 30px 25px;
+}
+
+.zag {
+    font-size: 45px;
+    font-family: "Bebas Neue", "Oswald", "Anton", sans-serif;
+    padding-top: 7px;
+    padding-left: 10px;
+    font-weight: 600;
+}
+
+.orignazv {
+    font-size: 20;
+    font-family: "Bebas Neue", "Oswald", "Anton", sans-serif;
+    padding-top: 10px;
+    padding-left: 25px;
+    font-weight: 300;
+}
+
+.kratopis {
+    font-size: 20;
+    font-family: "Bebas Neue", "Oswald", "Anton", sans-serif;
+    padding-top: 20px;
+    padding-left: 25px;
+    font-weight: 300;
+    margin-right: 10px;
+}
+
+.play {
+    border-radius: 4px;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(119, 56, 61);
+    text-align: center;
+    border: none;
+    font-size: 17px;
+    font-weight: 300;
+    margin-top: 100px;
+    margin-left: -40px;
+    transition: transform 0.2s;
+}
+
+article {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    margin: 20px 10px;
+    border-radius: 14px;
+}
+
+.play:hover {
+    background-color: rgb(103, 46, 46);
+    transform: scale(1.15);
+    color: rgb(123, 104, 104);
+    font-weight: 650;
+  }
+
+.Budapest {
+    width: 95%;
+    border-radius: 6px;
+    background-color: #F4A8B9;
+    height: 175px;
+}
+
+.img1 {
+    margin-right: 40px;
+}
+
+.Whiplash {
+    background-color: #c39236;
+    width: 95%;
+    border-radius: 6px;
+    height: 175px;
+}
+
+.playWhip {
+    border-radius: 4px;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(119, 56, 61);
+    text-align: center;
+    border: none;
+    font-size: 17px;
+    font-weight: 300;
+    margin-top: 100px;
+    margin-left: -20px;
+    transition: transform 0.2s;
+}
+
+.playWhip:hover {
+    background-color: rgb(103, 46, 46);
+    transform: scale(1.15);
+    color: rgb(123, 104, 104);
+    font-weight: 650;
+  }
+
+.Basterds {
+    background-color: #ab5757;
+    width: 95%;
+    border-radius: 6px;
+    height: 175px;
+}
+
+.Midsommar {
+    background-color: #f6f464;
+    width: 95%;
+    border-radius: 6px;
+    height: 175px;
+}
+
+.Notlook {
+    color: #bc0b0b;
+    font-size: 13px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.Kindex {
+    background-color: rgb(63, 63, 172);
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.Kindex:hover {
+    transform: scale(1.15);
+    background-color: rgb(57, 57, 110);
+}
